@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-activemq-4.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/serena1.0/tools/apache-activemq-4.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

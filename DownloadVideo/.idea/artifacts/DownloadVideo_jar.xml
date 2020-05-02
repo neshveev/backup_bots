@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DownloadVideo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DownloadVideo_jar</output-path>
+    <root id="archive" name="DownloadVideo.jar">
+      <element id="module-output" name="DownloadVideo" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/serena1.0/tools/json-20140107.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/serena1.0/tools/apache-activemq-4.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

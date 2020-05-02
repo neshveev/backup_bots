@@ -1,0 +1,3 @@
+[2020-01-05 20:40:28.179] [SerenaEvents] [{"path":"/home/ejommy/Documents/serena1.0/text/test1.txt","file_name":"123","event":"Done","chat_id":477030217}]
+[2020-01-05 20:40:52.436] [SerenaEvents] [{"path":"/home/ejommy/Documents/serena1.0/text/test1.txt","file_name":"123","event":"Done","chat_id":477030217}]
+[2020-01-05 20:41:52.899] [SerenaEvents] [{"path":"/home/ejommy/Documents/serena1.0/text/test1.txt","file_name":"123","event":"Done","chat_id":477030217}]
